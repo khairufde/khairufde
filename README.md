@@ -11,8 +11,9 @@
 
 <h2> Connect with me:</h2>
 
-[![FarhanKhairullah | Upwork](https://www.upwork.com/favicon.ico)](https://www.upwork.com/freelancers/~012edbfdb133ebdfab?mp_source=share)
+[<img align="left" alt="FarhanKhairullah | Upwork" width="22px" src="https://www.citypng.com/public/uploads/preview/upwork-round-logo-icon-png-7017516949686332n4bo69bd8.png" />][upwork]
 
+[upwork]: https://www.upwork.com/freelancers/~012edbfdb133ebdfab?mp_source=share
 <!---
 khairufde/khairufde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
