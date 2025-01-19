@@ -11,7 +11,7 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="FarhanKhairullah | Upwork" width="22px" src="https://www.upwork.com/freelancers/~012edbfdb133ebdfab?mp_source=share" />][upwork]
+[![FarhanKhairullah | Upwork](https://www.upwork.com/favicon.ico)](https://www.upwork.com/freelancers/~012edbfdb133ebdfab?mp_source=share)
 
 <!---
 khairufde/khairufde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
