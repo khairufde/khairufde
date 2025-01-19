@@ -1,4 +1,4 @@
-<h1> Hi, I’m Farhan <br/>Data Engineer</a></h1
+<h1> Hi, I’m Farhan <br/>Data Engineer</a></h1>
 
 - <b>Pokemon Data ETL: First 15 Pokemon Data Mining Using PokeAPI, Pandas, and SQLite</b>
   - [ETL Extract Pokemon Data](https://github.com/khairufde/Mining_Pokemon_Data)
