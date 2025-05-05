@@ -8,6 +8,8 @@
   - [ETL Extract GDP Table](https://github.com/khairufde/countries_gdp)
 - <b>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a>, Airflow, and load Postgres</b>
   - [ETL Weather Data Pipeline](https://github.com/khairufde/get_weather)
+- <b>Automate fetching weather data to csv using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a> and Github Actions</b>
+  - [Automate fetching weather data](https://github.com/khairufde/getWeather-action)
 
 <h2> Connect with me:</h2>
 
