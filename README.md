@@ -13,6 +13,8 @@
   - [Automate fetching weather data to Gdrive](https://github.com/khairufde/getWeather-actionGD)
 - <b>Fetching 7 days forecast weather data to postgreSQL</b>
   - [7 days forecast](https://github.com/khairufde/7daysforecast)
+- <b>Google Sheets Inventory Management System</b>
+  - [Inventory management system](https://github.com/khairufde/InventoryManagementSystem)
 
 <h2> Connect with me:</h2>
 
