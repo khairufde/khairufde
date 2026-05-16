@@ -6,7 +6,7 @@
   - [ETL Extract Pokemon Data](https://github.com/khairufde/Mining_Pokemon_Data)
 - <b>ETL: Extract GDP Table From <a href="https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29">Wikipedia Page</a> Using BeautifulSoup, Pandas, and SQLite</b>
   - [ETL Extract GDP Table](https://github.com/khairufde/countries_gdp)
-- <b>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a>, Airflow, and load Postgres</b>
+- <b>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a>, Airflow, and load to Postgres</b>
   - [ETL Weather Data Pipeline](https://github.com/khairufde/get_weather)
 - <b>Automate fetching weather data to csv using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a> and Github Actions</b>
   - [Automate fetching weather data](https://github.com/khairufde/getWeather-action)
