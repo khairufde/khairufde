@@ -1,6 +1,6 @@
 <h1> Hi, I’m Farhan </h1>
 
-<h2>Here are my portfolio project to showcase my skill</h2>
+<h2>Here are some of my works in data processing projects</h2>
 
 - <b>Pokemon Data ETL: First 15 Pokemon Data Mining Using PokeAPI, Pandas, and SQLite</b>
   - [ETL Extract Pokemon Data](https://github.com/khairufde/Mining_Pokemon_Data)
